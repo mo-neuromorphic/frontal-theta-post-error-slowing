@@ -1,0 +1,16 @@
+{
+  "status": "Provisional structural counts; not final eligibility",
+  "recordings": 515,
+  "participants": 172,
+  "unknown_values": "Blank fully_screened_triplets values mean unknown",
+  "pending": [
+    "Final RT screening",
+    "Practice handling",
+    "EEG eligibility",
+    "Task-variant and nonstandard-block handling",
+    "Documentary discrepancies",
+    "Reason for the unlisted sub-1047 Task B recording"
+  ],
+  "reconstruction_audit": "Unresolved trials retain their sequence positions; the separated initial record remains documented.",
+  "rerun_behaviour": "Exporting does not disable earlier batch cells"
+}

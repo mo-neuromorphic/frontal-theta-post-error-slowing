@@ -1,0 +1,54 @@
+{
+  "scope": "Three sub-1004 reference recordings; no dataset-wide generalisation of new timing intervals",
+  "method": "Group original urevent records through each TRSP. Require exactly one marker per measured type within each group. Compare mffkey_rtim with 1000*(resp latency - Stm+ latency)/srate for recorded responses. Measure Dist-to-Stm+ and Stm+-to-ITI+ separately.",
+  "recordings": [
+    {
+      "file": "sub-1004_ses-1_task-ffb_eeg.set",
+      "trials": 330,
+      "responses": 321,
+      "max_abs_rt_minus_stim_response_ms": 0.00926220417022705,
+      "Dist_to_Stm+_ms": {
+        "min": null,
+        "median": null,
+        "max": null
+      },
+      "Stm+_to_ITI+_ms": {
+        "min": 248.99281561374664,
+        "median": 249.99864399433136,
+        "max": 251.00447237491608
+      }
+    },
+    {
+      "file": "sub-1004_ses-2_task-ffc_eeg.set",
+      "trials": 400,
+      "responses": 397,
+      "max_abs_rt_minus_stim_response_ms": 0.009533405303955078,
+      "Dist_to_Stm+_ms": {
+        "min": null,
+        "median": null,
+        "max": null
+      },
+      "Stm+_to_ITI+_ms": {
+        "min": 248.99281561374664,
+        "median": 249.99864399433136,
+        "max": 251.00447237491608
+      }
+    },
+    {
+      "file": "sub-1004_ses-3_task-ffa_eeg.set",
+      "trials": 900,
+      "responses": 896,
+      "max_abs_rt_minus_stim_response_ms": 0.009510278701782227,
+      "Dist_to_Stm+_ms": {
+        "min": 148.9933580160141,
+        "median": 149.99918639659882,
+        "max": 151.00501477718353
+      },
+      "Stm+_to_ITI+_ms": {
+        "min": 648.9906460046768,
+        "median": 649.9964743852615,
+        "max": 651.0023027658463
+      }
+    }
+  ]
+}

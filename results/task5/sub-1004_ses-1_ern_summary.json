@@ -1,0 +1,21 @@
+{
+  "recording": "sub-1004_ses-1_task-ffb",
+  "ica_exclusions": [
+    3
+  ],
+  "epoch_window_s": [
+    -0.5,
+    0.8
+  ],
+  "baseline_s": [
+    -0.5,
+    0.0
+  ],
+  "rejection_peak_to_peak_uV": 100,
+  "correct_retained": 260,
+  "errors_retained": 5,
+  "ern_uV": 0.04831394677489207,
+  "crn_uV": 1.1747120185195834,
+  "delta_ern_uV": -1.1263980717446913,
+  "status": "Descriptive single-recording result; final behavioural trial linkage and group validation pending"
+}

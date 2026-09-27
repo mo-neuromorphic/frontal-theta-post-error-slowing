@@ -1,0 +1,7 @@
+recording,original_index,trial_number,action
+sub-1007_ses-3_task-ffb_eeg.set,525,106,Retain unresolved trial; disallow in triplets
+sub-1020_ses-1_task-ffa_eeg.set,6,1,Separate initial no-stimulus record
+sub-1045_ses-1_task-ffb_eeg.set,1191,238,Retain unresolved trial; disallow in triplets
+sub-2010_ses-1_task-ffb_eeg.set,1504,301,Retain unresolved trial; disallow in triplets
+sub-2034_ses-2_task-ffb_eeg.set,1362,273,Retain unresolved trial; disallow in triplets
+sub-2082_ses-3_task-ffc_eeg.set,963,193,Retain unresolved trial; disallow in triplets

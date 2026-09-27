@@ -1,0 +1,26 @@
+# Source dataset and its nested git-annex repository
+/data/
+
+# Local configuration and credentials
+/.agents/
+/.codex/
+/.vscode/
+.env
+.env.*
+!.env.example
+
+# Python and notebook temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Operating-system and editor temporary files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+~$*

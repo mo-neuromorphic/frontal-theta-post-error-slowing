@@ -1,0 +1,38 @@
+{
+  "recording": "sub-1004_ses-1_task-ffb",
+  "method": "picard",
+  "n_components": 20,
+  "random_seed": 42,
+  "excluded_components": [
+    3
+  ],
+  "retained_candidate": 6,
+  "review_intervals_s": [
+    [
+      10,
+      25
+    ],
+    [
+      100,
+      115
+    ],
+    [
+      250,
+      265
+    ],
+    [
+      450,
+      465
+    ]
+  ],
+  "rationale": "Frontal map, transient source activity and consistent reduction of sharp frontal deflections on EEG copies.",
+  "limitations": "Broader changes remain visible; ocular attribution is a visual judgement, not proof of a pure artefact source. Epoch screening remains required.",
+  "main_filter_hz": [
+    0.1,
+    30
+  ],
+  "ica_fit_highpass_hz": 1.0,
+  "reference": "average",
+  "boundary_handling": "Zero-duration EDGE boundary markers separate filtering segments; original annotations preserved.",
+  "status": "Single-recording correction applied; ERN not yet recomputed."
+}

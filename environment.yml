@@ -1,0 +1,13 @@
+name: essex_project
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - pymatreader
+  - mne-bids
+  - harfbuzz
+  - matplotlib
+  - python=3.11
+  - mne[version='>=1.7']
+prefix: /home/moyo/miniconda3/envs/essex_project

@@ -1,0 +1,13 @@
+recording,set_file,error_type,reason
+sub-1007_ses-3_task-ffb_eeg.set,../data/ds004883_Clayson/sub-1007/ses-3/eeg/sub-1007_ses-3_task-ffb_eeg.set,ValueError,sub-1007_ses-3_task-ffb_eeg.set: Response markers disagree with response codes
+sub-1020_ses-1_task-ffa_eeg.set,../data/ds004883_Clayson/sub-1020/ses-1/eeg/sub-1020_ses-1_task-ffa_eeg.set,ValueError,sub-1020_ses-1_task-ffa_eeg.set: Trial total differs from the candidate task model
+sub-1045_ses-1_task-ffb_eeg.set,../data/ds004883_Clayson/sub-1045/ses-1/eeg/sub-1045_ses-1_task-ffb_eeg.set,ValueError,sub-1045_ses-1_task-ffb_eeg.set: Response markers disagree with response codes
+sub-2004_ses-3_task-ffb_eeg.set,../data/ds004883_Clayson/sub-2004/ses-3/eeg/sub-2004_ses-3_task-ffb_eeg.set,ValueError,sub-2004_ses-3_task-ffb_eeg.set: Trial total differs from the candidate task model
+sub-2005_ses-2_task-ffb_eeg.set,../data/ds004883_Clayson/sub-2005/ses-2/eeg/sub-2005_ses-2_task-ffb_eeg.set,ValueError,sub-2005_ses-2_task-ffb_eeg.set: Trial total differs from the candidate task model
+sub-2007_ses-3_task-ffa_eeg.set,../data/ds004883_Clayson/sub-2007/ses-3/eeg/sub-2007_ses-3_task-ffa_eeg.set,ValueError,sub-2007_ses-3_task-ffa_eeg.set: Trial total differs from the candidate task model
+sub-2010_ses-1_task-ffb_eeg.set,../data/ds004883_Clayson/sub-2010/ses-1/eeg/sub-2010_ses-1_task-ffb_eeg.set,ValueError,sub-2010_ses-1_task-ffb_eeg.set: Response markers disagree with response codes
+sub-2025_ses-3_task-ffa_eeg.set,../data/ds004883_Clayson/sub-2025/ses-3/eeg/sub-2025_ses-3_task-ffa_eeg.set,ValueError,sub-2025_ses-3_task-ffa_eeg.set: Trial total differs from the candidate task model
+sub-2034_ses-2_task-ffb_eeg.set,../data/ds004883_Clayson/sub-2034/ses-2/eeg/sub-2034_ses-2_task-ffb_eeg.set,ValueError,sub-2034_ses-2_task-ffb_eeg.set: Response markers disagree with response codes
+sub-2082_ses-3_task-ffc_eeg.set,../data/ds004883_Clayson/sub-2082/ses-3/eeg/sub-2082_ses-3_task-ffc_eeg.set,ValueError,sub-2082_ses-3_task-ffc_eeg.set: Response markers disagree with response codes
+sub-2087_ses-2_task-ffa_eeg.set,../data/ds004883_Clayson/sub-2087/ses-2/eeg/sub-2087_ses-2_task-ffa_eeg.set,ValueError,sub-2087_ses-2_task-ffa_eeg.set: Trial total differs from the candidate task model
+sub-2110_ses-1_task-ffb_eeg.set,../data/ds004883_Clayson/sub-2110/ses-1/eeg/sub-2110_ses-1_task-ffb_eeg.set,ValueError,sub-2110_ses-1_task-ffb_eeg.set: Trial total differs from the candidate task model

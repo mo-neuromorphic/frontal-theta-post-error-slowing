@@ -1,0 +1,29 @@
+{
+  "osf_tasks_component": "https://osf.io/wdv3m/",
+  "sources": [
+    {
+      "task": "A",
+      "name": "FflankrA3_220302.es3",
+      "download_url": "https://osf.io/download/qzj4v/",
+      "sha256": "9cac4820015a5c01a0f0d891a94279a491abc80ffc61cfcb58f563f547150dc2",
+      "bytes": 398971
+    },
+    {
+      "task": "B",
+      "name": "FflankrB3_220302.es3",
+      "download_url": "https://osf.io/download/z6nqp/",
+      "sha256": "6374115ec2ea6f1e35021c1945a12015386ea2e914f34c945b814ad0db176df0",
+      "bytes": 400841
+    },
+    {
+      "task": "C",
+      "name": "FflankrC3_220302.es3",
+      "download_url": "https://osf.io/download/hwfj3/",
+      "sha256": "16892067e38a0a38fc91169343e47eebd7f2dd32506eb470b5dada0d96413be8",
+      "bytes": 368425
+    }
+  ],
+  "inspection": "Files downloaded to temporary storage and XML metadata inspected. Experiment definitions reside in encoded Doc text; timing settings not decoded or verified.",
+  "conversion_review": "Local ff_ern_convert_mff_to_set.m recodes resp and Stm+ using following TRSP; RT limits are not used to preserve events. This is conversion code, not acquisition timing code.",
+  "unresolved_question": "What physical display events do Dist, Stm+ and ITI+ mark, what anchors mffkey_rtim, and what response deadlines were implemented? Do these posted March 2022 versions match the recordings?"
+}

@@ -1,0 +1,8 @@
+{
+  "scope": "Standalone execution of the exact corrected notebook montage cell on freshly loaded sub-1004/ses-1/ffb metadata (preload=False); not the live VS Code kernel.",
+  "stdout": "Channels without template positions: []\n",
+  "warnings": [],
+  "channels": 129,
+  "finite_positions": true,
+  "mne_version": "1.12.1"
+}
