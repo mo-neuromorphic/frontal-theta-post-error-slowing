@@ -4,10 +4,6 @@ A psychobiological and psychometric investigation of error monitoring in a large
 
 Moyosore Olasupo · University of Essex Online · Psychobiology & Neuroscience
 
-## Working revision following supervisor feedback
-
-# Frontal Theta Phase Synchrony and Post-Error Slowing
-
 ## Abstract
 
 This project investigates the relationship between error-related frontal theta synchrony and post-error slowing (PES) using existing EEG and behavioural data from the OpenNeuro ds004883 flanker dataset. The primary analysis will examine whether participants with stronger error-trial theta synchrony show greater PES, calculated from reaction times on valid correct trials immediately before and after an error.
